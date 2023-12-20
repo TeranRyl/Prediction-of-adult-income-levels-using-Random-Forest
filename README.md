@@ -1,6 +1,6 @@
 # PREDICCION DE LOS NIVELES DE INGRESOS DE LOS ADULTOS USANDO MACHINE LEARNING - MINERIA DE DATOS MIND_M
 
-## Descripcion
+## Resumen
 
 Predicción de los niveles de ingresos de los adultos en función de sus atributos personales y profesionales, utilizando un algoritmo de aprendizaje automático supervisado "Random Forest Classifier".
 
