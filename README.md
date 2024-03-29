@@ -1,7 +1,9 @@
-# PREDICCION DE LOS NIVELES DE INGRESOS DE LOS ADULTOS USANDO MACHINE LEARNING - MINERIA DE DATOS MIND_M
+# Minería de Datos MIND_M - Predicción de los niveles de ingresos de los adultos usando Random Forest
+
+Proyecto destacado de la asignatura de Minería de Datos (MIND_M).
 
 ## Resumen
 
-Predicción de los niveles de ingresos de los adultos en función de sus atributos personales y profesionales, utilizando un algoritmo de aprendizaje automático supervisado "Random Forest Classifier".
+Predicción de los niveles de ingresos de los adultos en función de sus atributos personales y profesionales, utilizando un algoritmo de aprendizaje automático supervisado "Random Forest".
 
-Construcción de un modelo, con "accuracy" superior al 85.4%, que permite clasificar a un empleado en una de dos categorías de ingreso anual: "low" (máximo USD 50.000) o "high" (mas de USD 50.000).
+Construcción de un modelo, con "Accuracy" superior al 85.4%, que permite clasificar a un empleado en una de dos categorías de ingreso anual: "low" (máximo USD 50.000) o "high" (mas de USD 50.000).
