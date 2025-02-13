@@ -1,6 +1,4 @@
-# Minería de Datos MIND_M - Predicción de los niveles de ingresos de los adultos usando Random Forest
-
-Proyecto destacado de la asignatura de Minería de Datos (MIND_M).
+# Predicción de los niveles de ingresos de los adultos usando Random Forest
 
 ## Resumen
 
