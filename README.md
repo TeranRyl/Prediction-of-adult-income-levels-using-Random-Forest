@@ -1,5 +1,9 @@
 # Predicción de los niveles de ingresos de los adultos usando Random Forest
 
+## Kaggle Competition
+
+https://www.kaggle.com/competitions/publicfinalprojectmind20232
+
 ## Resumen
 
 Predicción de los niveles de ingresos de los adultos en función de sus atributos personales y profesionales, utilizando un algoritmo de aprendizaje automático supervisado "Random Forest".
