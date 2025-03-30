@@ -1,11 +1,9 @@
-# Predicción de los niveles de ingresos de los adultos usando Random Forest
+# Prediction of adult income levels using Random Forest
+
+Prediction of adult income levels based on their personal and professional attributes using a supervised machine learning algorithm, Random Forest.
+
+Development of a model with an accuracy exceeding 85.4% that classifies an employee into one of two annual income categories: "low" (maximum USD 50,000) or "high" (more than USD 50,000).
 
 ## Kaggle Competition
 
 https://www.kaggle.com/competitions/publicfinalprojectmind20232
-
-## Resumen
-
-Predicción de los niveles de ingresos de los adultos en función de sus atributos personales y profesionales, utilizando un algoritmo de aprendizaje automático supervisado "Random Forest".
-
-Construcción de un modelo, con "Accuracy" superior al 85.4%, que permite clasificar a un empleado en una de dos categorías de ingreso anual: "low" (máximo USD 50.000) o "high" (mas de USD 50.000).
